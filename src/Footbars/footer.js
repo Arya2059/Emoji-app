@@ -4,21 +4,21 @@ const Footer = () => {
       <div className="footer-header">Reach Me</div>
       <ul className="social-links list-non-bullet">
         <li className="list-item-inline">
-          <a className="link" href="https://twitter.com/Arya2059">
+          <a className="link" href="https://twitter.com/Arya11391">
             Twitter
           </a>
         </li>
         <li className="list-item-inline">
-          <a className="link" href="https://github.com/Arya-0902">
+          <a className="link" href="https://github.com/Arya2059">
             Github
           </a>
         </li>
         <li className="list-item-inline">
           <a
             className="link"
-            href="https://www.linkedin.com/in/arya-shah-74636b1bb/"
+            href="https://www.instagram.com/arya_s009/"
           >
-            LinkedIn
+            Instagram
           </a>
         </li>
       </ul>
